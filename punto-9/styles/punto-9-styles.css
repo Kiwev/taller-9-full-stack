@@ -1,0 +1,29 @@
+table {
+    border-collapse: collapse;
+}
+
+th, tr {
+    background-color: yellow;
+}
+
+.fila-1,
+.fila-2,
+.fila-2 td {
+    border: 1px dotted black;
+}
+
+.fila-3 {
+    border: 1px dotted black;
+    border-bottom: 1px dashed red;
+}
+
+.text__red {
+    color: red;
+    font-style: italic;
+    font-family: 'familjen grotesk';
+}
+
+b {
+    font-weight: bolder;
+    font-size: larger;
+}

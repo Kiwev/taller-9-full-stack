@@ -1,0 +1,33 @@
+.div__pink {
+background-color: #d6afdc;
+padding-top: 2px;
+padding-bottom: 2px;
+}
+
+nav ul{
+    display: flex;
+    gap: 45px;
+    list-style: none;
+}
+
+.nav ul li a{
+    text-decoration: none;
+}
+
+button {
+    background-color: #d6afdc;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: blue;
+    
+  }
+  

@@ -1,0 +1,37 @@
+.text__red,
+.underline-middle-text__red {
+    color: red;
+    font-weight: bold;
+}
+
+.underline-middle-text__red {
+    text-decoration: underline;
+}
+
+.underline-text__green {
+    color: green;
+    text-decoration: underline;
+}
+
+.overline-underline {
+    text-decoration: overline underline;
+}
+
+.text__big,
+.middle-text__blue,
+.underline-middle-text__red {
+    font-weight: bold;
+}
+
+.text__big {
+    font-size: 40px;
+}
+
+.middle-text__blue,
+.underline-middle-text__red {
+    font-size: 20px;
+}
+
+.middle-text__blue {
+    color: blue;
+}

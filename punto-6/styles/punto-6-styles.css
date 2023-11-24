@@ -1,0 +1,15 @@
+th {
+    text-align: left;
+}
+
+.text__yellow {
+    color: yellow;
+}
+
+.text__purple {
+    color: purple;
+}
+
+a:hover {
+    color: rgb(255, 127, 127);
+}
