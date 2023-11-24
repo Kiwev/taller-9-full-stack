@@ -5,7 +5,7 @@
 <p>Curso: full Stack Basico - Grupo 1</p>
 <p>Profesor: Cristian Patiño</p>
 <h3>Link página web</h3>
-<a hred="https://kiwev.github.io/taller-9-full-stack/" target="blank">Link página web</a>
+<a href="https://kiwev.github.io/taller-9-full-stack/" target="blank">Link página web</a>
 
 <h2> Punto 1: Link figma</h2>
 
